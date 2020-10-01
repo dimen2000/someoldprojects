@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Nein gebe ich geben_srisem.jpg</file>
+        <file>1Number.png</file>
+        <file>1Number.jpg</file>
+        <file>2Number.jpg</file>
+        <file>3Number.jpg</file>
+        <file>4Number.jpg</file>
+        <file>5Number.jpg</file>
+        <file>6Number.jpg</file>
+        <file>7Number.jpg</file>
+        <file>8Number.jpg</file>
+        <file>bomb.jpg</file>
+        <file>bomb2.png</file>
+        <file>flag.png</file>
+        <file>bomb.ico</file>
+        <file>Skid.wav</file>
+    </qresource>
+</RCC>

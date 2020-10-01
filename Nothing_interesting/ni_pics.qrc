@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons8-быстрая-перемотка-вперед.png</file>
+        <file>icons8-воспроизведение.png</file>
+        <file>icons8-пауза.png</file>
+        <file>icons8-перемотка-назад.png</file>
+        <file>Icon1.ico</file>
+        <file>icon.rc</file>
+    </qresource>
+</RCC>
