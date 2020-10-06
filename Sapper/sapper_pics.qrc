@@ -13,6 +13,5 @@
         <file>bomb2.png</file>
         <file>flag.png</file>
         <file>bomb.ico</file>
-        <file>Skid.wav</file>
     </qresource>
 </RCC>
